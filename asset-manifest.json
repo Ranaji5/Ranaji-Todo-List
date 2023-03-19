@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/%7BRanaji-Todo-List%7D/static/css/main.d8549cd8.css",
+    "main.js": "/%7BRanaji-Todo-List%7D/static/js/main.ba1dc1cf.js",
+    "static/js/787.c6a9a21d.chunk.js": "/%7BRanaji-Todo-List%7D/static/js/787.c6a9a21d.chunk.js",
+    "index.html": "/%7BRanaji-Todo-List%7D/index.html",
+    "main.d8549cd8.css.map": "/%7BRanaji-Todo-List%7D/static/css/main.d8549cd8.css.map",
+    "main.ba1dc1cf.js.map": "/%7BRanaji-Todo-List%7D/static/js/main.ba1dc1cf.js.map",
+    "787.c6a9a21d.chunk.js.map": "/%7BRanaji-Todo-List%7D/static/js/787.c6a9a21d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8549cd8.css",
+    "static/js/main.ba1dc1cf.js"
+  ]
+}
